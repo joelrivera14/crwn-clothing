@@ -9,5 +9,5 @@ const Directory = ({ categories }) => {
     </div>
   );
 };
-
+t;
 export default Directory;
