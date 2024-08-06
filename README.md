@@ -8,9 +8,9 @@ The user can add/remove items from their shopping cart, they can browse differen
 
 # Technologies:
 
-Firebase
-React
-SCSS
+Firebase<br>
+React<br>
+SCSS<br>
 Netlify
 
 website- https://snazzy-sherbet-7f5380.netlify.app/
